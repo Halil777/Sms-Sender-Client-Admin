@@ -1,0 +1,68 @@
+{
+  "sidebar": {
+    "dashboard": "Панель управления",
+    "users": "Клиенты",
+    "groups": "Группы",
+    "phones": "Телефоны"
+  },
+
+  "lang": {
+    "languageChanged": "Язык изменен на Русский"
+  },
+
+  "dashboard": {
+    "send_sms": "Отправить SMS",
+    "clients": "Клиенты",
+    "delivered_sms": "Доставленные SMS",
+    "groups": "Группы"
+  },
+
+  "clients": {
+    "name": "Имя",
+    "clientName": "Имя клиента",
+    "phoneCount": "Количество телефонов",
+    "usagePeriod": "Период использования",
+    "status": "Статус",
+    "action": "Действие"
+  },
+
+  "smslogs": {
+    "name": "Имя",
+    "todaySmsCount": "Количество SMS за сегодня",
+    "totalSmsCount": "Общее количество SMS",
+    "dangerCount": "Количество опасных сообщений",
+    "statusBased": "По статусу"
+  },
+
+  "blacklist": {
+    "word": "Слово",
+    "identifiedCases": "Выявленные случаи",
+    "date": "Дата создания",
+    "action": "Действие"
+  },
+
+  "license": {
+    "clientName": "Имя клиента",
+    "licenseKey": "Ключ лицензии",
+    "phoneLimit": "Ограничение по телефону",
+    "usagePeriod": "Период использования",
+    "status": "Статус",
+    "action": "Действие"
+  },
+
+  "profile": {
+    "userDetails": "Детали пользователя",
+    "changePicture": "Сменить фотографию",
+    "firstName": "Имя",
+    "surname": "Фамилия",
+    "email": "Электронная почта",
+    "about": "Поделитесь информацией о себе",
+    "cancel": "Отмена",
+    "save": "Сохранить"
+  },
+
+  "tabs": {
+    "profile": "Профиль",
+    "notifications": "Уведомления"
+  }
+}

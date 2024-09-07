@@ -1,0 +1,68 @@
+{
+  "sidebar": {
+    "dashboard": "Daşboard",
+    "users": "Müşderiler",
+    "groups": "Toparlar",
+    "phones": "Telefonlar"
+  },
+
+  "lang": {
+    "languageChanged": "Dil Türkmen diline geçirildi"
+  },
+
+  "dashboard": {
+    "send_sms": "Ugradylan sms",
+    "clients": "Müşderiler",
+    "delivered_sms": "Üstünlikli Ugradylan sms",
+    "groups": "Toparlar"
+  },
+
+  "clients": {
+    "name": "Ady",
+    "clientName": "Müşderiniň Ady",
+    "phoneCount": "Telefon sany",
+    "usagePeriod": "Işletmek döwri",
+    "status": "Status",
+    "action": "Amal"
+  },
+
+  "smslogs": {
+    "name": "Ady",
+    "todaySmsCount": "Bugünkü SMS sany",
+    "totalSmsCount": "Jemi SMS sany",
+    "dangerCount": "Gorkunç hasap",
+    "statusBased": "Status boýunça"
+  },
+
+  "blacklist": {
+    "word": "Söz",
+    "identifiedCases": "Anyklanan ýagdaýlar",
+    "date": "Doredilen senesi",
+    "action": "Amal"
+  },
+
+  "license": {
+    "clientName": "Müşderi Ady",
+    "licenseKey": "Lisenziýa Kody",
+    "phoneLimit": "Telefon Sany",
+    "usagePeriod": "Ulanylma Periody",
+    "status": "Status",
+    "action": "Amal"
+  },
+
+  "profile": {
+    "userDetails": "Ulanyjy Maglumatlary",
+    "changePicture": "Suraty Çalyş",
+    "firstName": "Ady",
+    "surname": "Familiýasy",
+    "email": "E-poçta",
+    "about": "Özüňiz hakda maglumat paýlaşyň",
+    "cancel": "Yza",
+    "save": "Saýla"
+  },
+
+  "tabs": {
+    "profile": "Profil",
+    "notifications": "Bildirişler"
+  }
+}

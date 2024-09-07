@@ -1,0 +1,68 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "users": "Clients",
+    "groups": "Groups",
+    "phones": "Phones"
+  },
+
+  "lang": {
+    "languageChanged": "Language changed to English"
+  },
+
+  "dashboard": {
+    "send_sms": "Send SMS",
+    "clients": "Clients",
+    "delivered_sms": "Delivered SMS",
+    "groups": "Groups"
+  },
+
+  "clients": {
+    "name": "Name",
+    "clientName": "Client Name",
+    "phoneCount": "Phone Count",
+    "usagePeriod": "Usage Period",
+    "status": "Status",
+    "action": "Action"
+  },
+
+  "smslogs": {
+    "name": "Name",
+    "todaySmsCount": "Today's SMS Count",
+    "totalSmsCount": "Total SMS Count",
+    "dangerCount": "Danger Count",
+    "statusBased": "Status Based"
+  },
+
+  "blacklist": {
+    "word": "Word",
+    "identifiedCases": "Identified Cases",
+    "date": "Date Created",
+    "action": "Action"
+  },
+
+  "license": {
+    "clientName": "Client Name",
+    "licenseKey": "License Key",
+    "phoneLimit": "Phone Limit",
+    "usagePeriod": "Usage Period",
+    "status": "Status",
+    "action": "Action"
+  },
+
+  "profile": {
+    "userDetails": "User Details",
+    "changePicture": "Change Picture",
+    "firstName": "First Name",
+    "surname": "Surname",
+    "email": "Email",
+    "about": "Share some information about you",
+    "cancel": "Cancel",
+    "save": "Save"
+  },
+
+  "tabs": {
+    "profile": "Profile",
+    "notifications": "Notifications"
+  }
+}
